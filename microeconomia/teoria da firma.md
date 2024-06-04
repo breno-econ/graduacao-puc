@@ -30,12 +30,18 @@ Representa a produção média de cada unidade de insumo.
 ### Produtividade marginal
 Representa quantidade adicional produzida quando se acrescenta uma unidade de insumo.
 
-  $PMgK=∂q/∂K$
+  $PMgK=∂q/∂K=Δq/ΔK$
 
-  $PMgL=∂q/∂L$
+  $PMgL=∂q/∂L=Δq/ΔL$
 
 ### A relação entre $PMeL$ e o salário
 A produtividade média da mão de obra tem relação direta com o valor dos salários pagos aos trabalhadores. Países com elevada produtividade média tendem a pagar salários maiores se comparados a países onde a produtividade é reduzida. Um dos motivos é a competitividade: se uma empresa se torna mais produtiva e, consequentemente, aumenta seus recursos, é de seu interesse reter os trabalhadores produtivos e atrair novos talentos, levando à necessidade de melhoriais salariais. Outro fator importante é o poder de barganha na negociação salarial pelos sindicatos, pois o aumento da produtividade pode ser usado como justificativa para o aumento salarial.
 
 ## Produção no curto prazo
-No cenário de curto prazo com um único fator variável (em geral, o trabalho), predonima a **lei dos rendimentos decrescentes**. Isso ocorre devido à presença de insumos fixos, que limitam o aumento da produção.
+No cenário de curto prazo com um único fator variável (em geral, o trabalho), existem três cenários: rendimentos crescentes, decrescentes e queda de produção. Isso ocorre devido à presença de insumos fixos, que limitam o aumento da produção.
+
+### $PmgL$ no curto prazo
+![Anotação 2024-06-04 112253](https://github.com/breno-econ/graduacao-puc/assets/171518233/07ad5763-b6e2-4088-a10b-52841a2cefea)
+
+Note que a produção total tende a diminuir conforme mais trabalhadores são contratados. Isso ocorre porque os demais insumos são fixos, ou seja, a quantidade de máquinas e o espaço físico são limitados, levando à redução da $PMgL$ até se tornar negativa. Entre 1 e 3 trabalhadores o rendimento é crescente. Entre 3 e 7 trabalhadores o rendimento passa a ser decrescente. Acima de 7 trabalhadores a firma passa a ter queda de produção.
+
