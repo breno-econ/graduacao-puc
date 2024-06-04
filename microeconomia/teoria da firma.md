@@ -38,10 +38,16 @@ Representa quantidade adicional produzida quando se acrescenta uma unidade de in
 A produtividade média da mão de obra tem relação direta com o valor dos salários pagos aos trabalhadores. Países com elevada produtividade média tendem a pagar salários maiores se comparados a países onde a produtividade é reduzida. Um dos motivos é a competitividade: se uma empresa se torna mais produtiva e, consequentemente, aumenta seus recursos, é de seu interesse reter os trabalhadores produtivos e atrair novos talentos, levando à necessidade de melhoriais salariais. Outro fator importante é o poder de barganha na negociação salarial pelos sindicatos, pois o aumento da produtividade pode ser usado como justificativa para o aumento salarial.
 
 ## Produção no curto prazo
-No cenário de curto prazo com um único fator variável (em geral, o trabalho), existem três cenários: rendimentos crescentes, decrescentes e queda de produção. Isso ocorre devido à presença de insumos fixos, que limitam o aumento da produção.
+No cenário de curto prazo com um único fator variável (em geral, o trabalho), ocorre três cenários na produção: rendimentos crescentes, decrescentes e queda de produção. Isso ocorre devido à presença de insumos fixos, que limitam o aumento da produção.
 
 ### $PmgL$ no curto prazo
-![Anotação 2024-06-04 112253](https://github.com/breno-econ/graduacao-puc/assets/171518233/07ad5763-b6e2-4088-a10b-52841a2cefea)
+![2](https://github.com/breno-econ/graduacao-puc/assets/171518233/ad83b653-9c1b-4151-a430-ab1503706aea)
 
-Note que a produção total tende a diminuir conforme mais trabalhadores são contratados. Isso ocorre porque os demais insumos são fixos, ou seja, a quantidade de máquinas e o espaço físico são limitados, levando à redução da $PMgL$ até se tornar negativa. Entre 1 e 3 trabalhadores o rendimento é crescente. Entre 3 e 7 trabalhadores o rendimento passa a ser decrescente. Acima de 7 trabalhadores a firma passa a ter queda de produção.
+Note que a produção total tende a diminuir conforme mais trabalhadores são contratados. Isso ocorre porque os demais insumos são fixos, ou seja, a quantidade de máquinas e o espaço físico são limitados, levando à redução da $PMgL$ até se tornar negativa. Entre 1 e 3 trabalhadores, o rendimento é crescente. Entre 3 e 7 trabalhadores, o rendimento passa a ser decrescente. Acima de 7 trabalhadores a firma passa a ter queda de produção. Vale ressaltar que o valor da $PMgL$ representa a produtividade do último trabalhador contratado.
 
+Reparei que quando a quantidade de trabalhadores é menor, a $PMgL$ é alta, em decorrência da maior especialização dos trabalhadores, levando ao aumento mais que proporcional da produtividade. Já quando a quantidade de trabalhadores é alta, a $PMgL$ tende a ser menor em decorrência de ineficiências.
+
+### $PMeL$ no curto prazo
+![1](https://github.com/breno-econ/graduacao-puc/assets/171518233/799bf80f-3790-4a60-9006-1b4fb6c98530)
+
+A produtividade média do trabalho está diretamente relacionada diretamente a sua produtividade marginal.
