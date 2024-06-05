@@ -1,13 +1,10 @@
-## Teoria da firma
-A teoria da firma é um conjunto de teorias que se concentram no estudo do comportamento das empresas, sobretudo em relação às decisões de produção, dentre as quais se destacam a **teoria da produção** e a **teoria dos custos de produção**. A teoria da produção se preocupa com os custos do processo de produtivo, ou seja, com a eficiência técnica da produção (tecnologia) na utilização dos fatores de produção. Já a teoria dos custos de produção, se concentra na relação entre a quantidade de produtos produzidos e os preços dos fatores de produção.
+## Introdução
+A teoria da firma é um conjunto de teorias que se concentram no estudo do comportamento das empresas, sobretudo em relação às decisões de produção, dentre as quais se destacam a teoria da produção e a teoria dos custos de produção. A teoria da produção se preocupa com os custos do processo de produtivo, ou seja, com a eficiência técnica da produção (tecnologia) na utilização dos fatores de produção. Já a teoria dos custos de produção, se concentra na relação entre a quantidade de produtos produzidos e os preços dos fatores de produção. 
 
-## Produção
-A produção é o processo pelo qual as empresas transformam os fatores de produção (terra, capital e trabalho) em produtos e serviços finais, ou seja:
-
-Fatores de produção → processo produtivo → bens e serviços finais
+Mas afinal, o que é produção?
 
 ### Função de produção
-A função de produção determina a quantidade máxima de produtos que uma empresa é capaz de produzir com uma combinação específica de insumos (capital e trabalho).
+A produção é o processo pelo qual as empresas transformam os fatores de produção (terra, capital e trabalho) em produtos e serviços finais. A função da produção determina a quantidade máxima de produtos que uma empresa é capaz de produzir com uma combinação específica de insumos, desta forma:
 
 $q=f(K,L)$, onde $K=$ capital e $L=$ trabalho
   
